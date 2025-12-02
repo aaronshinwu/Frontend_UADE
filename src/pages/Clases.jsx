@@ -18,7 +18,7 @@ export const Clases = () => {
     "Clases de 1 hora",
     "Semanales",
     "Presenciales o virtuales",
-    "Teoría musica y técnica pianística",
+    "Teoría musical y técnica pianística",
   ];
 
   return (
